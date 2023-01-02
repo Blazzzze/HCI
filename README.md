@@ -1,3 +1,4 @@
+**EDUCOM**
 Are you facing problem in selecting a particular stream or facing problem while solving question or feeling unmotivated while studying? 
 then EduCom is an app for you. Where you can have expert counselling regarding your life decisions, it also helps the students to solve 
 their doubts and clear their conceptual problems. Our app also helps the student who feel unmotivated to cheer them up and also keep their
