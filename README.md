@@ -5,3 +5,4 @@ moral up by guiding them in a right way.
 
 Our app has community feature in which we provide the students to interact with the social group who are facing these challenges or has 
 faced such issues, which will help them to face difficulties in a better way and share their ideas of how they did at their time.
+Link of the app:[HCI](https://bit.ly/3Gw8JW3)
