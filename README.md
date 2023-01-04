@@ -6,8 +6,11 @@ moral up by guiding them in a right way.
 
 Our app has community feature in which we provide the students to interact with the social group who are facing these challenges or has 
 faced such issues, which will help them to face difficulties in a better way and share their ideas of how they did at their time.
-Link of the app:[HCI](https://bit.ly/3Gw8JW3)
 
+Link of the app:[HCI](https://bit.ly/3Gw8JW3)
+>`Instructions:` (Credits- [Introduction to HCI](http://techtree.iiitd.edu.in/viewDescription/filename?=DES102))
+
+>`App Screenshot`
 <p float="left">
 <img src="https://user-images.githubusercontent.com/96880251/210258510-665062e7-9569-47b3-b550-0c79e7285b4e.png" width=150>&nbsp
 <img src="https://user-images.githubusercontent.com/96880251/210258519-79b3245b-852b-40a6-91be-4ada412fe50a.png" width=150>&nbsp
