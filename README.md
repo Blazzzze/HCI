@@ -11,6 +11,9 @@ Our app has community feature in which we provide the students to interact with 
 faced such issues, which will help them to face difficulties in a better way and share their ideas of how they did at their time.
 
 Link of the app:[HCI](https://bit.ly/3Gw8JW3)
+
+>`Purpose:` Course Project at [IIITD](https://www.iiitd.ac.in/)
+
 >`Instructions:` (Credits- [Introduction to HCI](http://techtree.iiitd.edu.in/viewDescription/filename?=DES102))
 
 >`App Screenshot`
