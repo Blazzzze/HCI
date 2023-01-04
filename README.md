@@ -1,15 +1,5 @@
 # EDUCOM App using Figma
 
-**EDUCOM**
-
-Are you facing problem in selecting a particular stream or facing problem while solving question or feeling unmotivated while studying? 
-then EduCom is an app for you. Where you can have expert counselling regarding your life decisions, it also helps the students to solve 
-their doubts and clear their conceptual problems. Our app also helps the student who feel unmotivated to cheer them up and also keep their
-moral up by guiding them in a right way.
-
-Our app has community feature in which we provide the students to interact with the social group who are facing these challenges or has 
-faced such issues, which will help them to face difficulties in a better way and share their ideas of how they did at their time.
-
 Link of the app:[HCI](https://bit.ly/3Gw8JW3)
 
 >`Purpose:` Course Project at [IIITD](https://www.iiitd.ac.in/)
@@ -29,3 +19,12 @@ Link of the app:[HCI](https://bit.ly/3Gw8JW3)
 <img src="https://user-images.githubusercontent.com/96880251/210258571-06d71e02-40a9-4e03-8eaf-a952cd6ace24.png" width=150>&nbsp
 <img src="https://user-images.githubusercontent.com/96880251/210258576-603c9785-8272-4e24-97ba-653387fd98de.png" width=150>&nbsp
 
+**EDUCOM**
+
+Are you facing problem in selecting a particular stream or facing problem while solving question or feeling unmotivated while studying? 
+then EduCom is an app for you. Where you can have expert counselling regarding your life decisions, it also helps the students to solve 
+their doubts and clear their conceptual problems. Our app also helps the student who feel unmotivated to cheer them up and also keep their
+moral up by guiding them in a right way.
+
+Our app has community feature in which we provide the students to interact with the social group who are facing these challenges or has 
+faced such issues, which will help them to face difficulties in a better way and share their ideas of how they did at their time.
