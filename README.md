@@ -2,6 +2,10 @@
 
 Link of the app:[HCI](https://bit.ly/3Gw8JW3)
 
+>[`Contributors:`](/ColorSwitch.pdf)
+- [Aryan Rohilla](https://github.com/Blazzzze)
+- [Kartik Gupta](https://github.com/kartik4gupta)
+
 >`Purpose:` Course Project at [IIITD](https://www.iiitd.ac.in/)
 
 >`Instructions:` (Credits- [Introduction to HCI](http://techtree.iiitd.edu.in/viewDescription/filename?=DES102))
